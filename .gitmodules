@@ -1,0 +1,3 @@
+[submodule "projeto-pooa"]
+	path = projeto-pooa
+	url = https://github.com/LucasMBalieiro/ProjetoPOOA.git
